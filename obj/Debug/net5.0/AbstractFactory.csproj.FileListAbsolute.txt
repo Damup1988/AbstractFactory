@@ -1,0 +1,16 @@
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\AbstractFactory\bin\Debug\net5.0\AbstractFactory.exe
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\AbstractFactory\bin\Debug\net5.0\AbstractFactory.deps.json
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.json
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.dev.json
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\AbstractFactory\bin\Debug\net5.0\AbstractFactory.dll
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\AbstractFactory\bin\Debug\net5.0\ref\AbstractFactory.dll
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\AbstractFactory\bin\Debug\net5.0\AbstractFactory.pdb
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csprojAssemblyReference.cache
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\AbstractFactory\obj\Debug\net5.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfo.cs
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\AbstractFactory\obj\Debug\net5.0\AbstractFactory.dll
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\AbstractFactory\obj\Debug\net5.0\ref\AbstractFactory.dll
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\AbstractFactory\obj\Debug\net5.0\AbstractFactory.pdb
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\testingApps\commonTests\AbstractFactory\obj\Debug\net5.0\AbstractFactory.genruntimeconfig.cache
