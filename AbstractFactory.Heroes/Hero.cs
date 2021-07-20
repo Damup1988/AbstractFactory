@@ -16,12 +16,12 @@ namespace AbstractFactory
 
         public void Move()
         {
-            movement.Move();
+            movement.Move(_name);
         }
 
         public void Hit()
         {
-            weapon.Hit();
+            weapon.Hit(_name);
         }
     }
 }

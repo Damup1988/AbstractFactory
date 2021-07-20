@@ -2,6 +2,6 @@ namespace AbstractFactory
 {
     public abstract class Weapon
     {
-        public abstract void Hit();
+        public abstract void Hit(string name);
     }
 }

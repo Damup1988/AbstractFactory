@@ -2,9 +2,9 @@ namespace AbstractFactory
 {
     public class RunMovement : Movement
     {
-        public override void Move()
+        public override void Move(string name)
         {
-            System.Console.WriteLine("The hero is running");
+            System.Console.WriteLine($"{name} is running");
         }
     }
 }

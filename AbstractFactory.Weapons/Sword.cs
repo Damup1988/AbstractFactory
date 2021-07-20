@@ -2,9 +2,9 @@ namespace AbstractFactory
 {
     public class Sword : Weapon
     {
-        public override void Hit()
+        public override void Hit(string name)
         {
-            System.Console.WriteLine("Slice and dice!");
+            System.Console.WriteLine($"{name} doing slice and dice!");
         }
     }
 }

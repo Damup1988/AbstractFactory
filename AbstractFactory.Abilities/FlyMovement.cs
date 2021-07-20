@@ -2,9 +2,9 @@ namespace AbstractFactory
 {
     public class FlyMovement : Movement
     {
-        public override void Move()
+        public override void Move(string name)
         {
-            System.Console.WriteLine("The hero is flying");
+            System.Console.WriteLine($"{name} is flying");
         }
     }
 }
